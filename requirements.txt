@@ -1,0 +1,4 @@
+random_word
+python-telegram-bot==13.10
+python-dotenv
+pymongo[srv]
