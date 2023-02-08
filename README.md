@@ -2,6 +2,9 @@
 
 <i> Recreating the classic game of Hangman on Telegram! </i>
 
+## View Deployed Bot
+
+You may find the deployed Telegram Bot [here](https://t.me/new_hangman_bot)!
 
 ## Usage
 
